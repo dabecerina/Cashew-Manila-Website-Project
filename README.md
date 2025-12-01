@@ -1,1 +1,2 @@
-# Cashew-Manila-Website-Project
+# Final-Project
+This wil be our final website project
